@@ -163,15 +163,15 @@ await conn.sendMessage(from, { text: madeMenu ,
     isForwarded: false,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363232588171807@newsletter',
-      newsletterName: "SILENTLOVER432",
+      newsletterName: "RAJ-BOT-OFC",
       serverMessageId: 999
     },
 externalAdReply: { 
-title: '◀︎SILENT-SOBX-MD MENU▶︎',
+title: '◀︎𝗥𝐀𝐉-𝐁𝐎𝐓-𝐎𝐅𝐂▶︎',
 body: `${pushname}`,
 mediaType: 1,
-sourceUrl: "https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s" ,
-thumbnailUrl: "https://telegra.ph/file/2a06381b260c3f096a612.jpg" ,
+sourceUrl: "https://whatsapp.com/channel/0029VaZ31elGE56hPfwhM10B" ,
+thumbnailUrl: "https://telegra.ph/file/fe01b578f73294993cdd2.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
