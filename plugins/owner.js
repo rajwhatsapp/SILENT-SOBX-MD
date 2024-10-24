@@ -14,11 +14,11 @@ try{
 const config = await readEnv();
 let owner = ` 
 *HEAR IS BOT OWNER INFO*
-*NAME:-* *USMAN.S*
-*AGE:-* *20 YEARS*
-*PUBLIC NAME:-* *SILENTLOVER*
+*NAME:-* *Raj Kumar*
+*AGE:-* *22 YEARS*
+*PUBLIC NAME:-* *RajWhatsApp*
 
-> *BY SILENTLOVER432*
+> *BY RAJ-BOT-OFC*
 `
 await conn.sendMessage(from, { text: owner ,
   contextInfo: {
@@ -28,15 +28,15 @@ await conn.sendMessage(from, { text: owner ,
     isForwarded: false,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363232588171807@newsletter',
-      newsletterName: "SILENTLOVER432",
+      newsletterName: "RAJ-BOT-OFC",
       serverMessageId: 999
     },
 externalAdReply: { 
-title: 'SILENTLOVER432',
+title: '★★𝗥𝐀𝐉-𝐁𝐎𝐓-𝐎𝐅𝐂★★',
 body: `${pushname}`,
 mediaType: 1,
-sourceUrl: "https://wa.me/+923096287432?text=HY SILENTLOVER4 I'M MSG YOU FROM OWNER ADS" ,
-thumbnailUrl: "https://telegra.ph/file/2a06381b260c3f096a612.jpg" ,
+sourceUrl: "https://Wa.me/+994407122025/?text=★★𝗥𝐀𝐉-𝐁𝐎𝐓-𝐎𝐅𝐂★★" ,
+thumbnailUrl: "https://telegra.ph/file/fe01b578f73294993cdd2.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
